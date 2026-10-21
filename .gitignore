@@ -8,5 +8,6 @@
 *.sln
 *.sw?
 
-# Maven
-target
+/target/
+.settings/
+.project
